@@ -1,2 +1,2 @@
-It's my first git test document
-to learn it create this
+Git is a distributed version control system.
+Git is free software.
